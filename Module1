@@ -26,5 +26,5 @@ End Sub
 Sub test_DateDiff()
 Dim diffDays As Long
 diffDays = DateDiff("d", "2024-09-01", "2024-09-15")
-MsgBox diffDays
+MsgBox diffDaysdddd
 End Sub
